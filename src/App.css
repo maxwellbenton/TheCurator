@@ -7,10 +7,13 @@
 .imageContainer {
   width: auto;
   height: 100vh;
+  position: absolute;
 }
 
 .image {
   width: auto;
+  position: absolute;
+
   height: 100%;
   transform-origin: 50% 20%;
   /* transition: transform 2s; */
